@@ -7,6 +7,6 @@
 
 ## Lab Tasks
 
-| DATE       | Lab Tasks                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------- |
-| 1 Oct 2026 | [Lab 1 — Search Foundations on an Airline Network](#lab-1--search-foundations-on-an-airline-network) |
+| DATE       | Lab Tasks                                                                                                 |
+| ---------- | --------------------------------------------------------------------------------------------------------- |
+| 1 Oct 2026 | [Lab 1 — Search Foundations on an Airline Network](all_experiments/lab01_search_foundations_worked.ipynb) |
