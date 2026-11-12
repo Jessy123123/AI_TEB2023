@@ -15,3 +15,4 @@
 | 22 Oct 2026 | [Lab 4 — Fuzzy Logic and ANFIS with Air-Quality Data](all_experiments/lab04_fuzzy_anfis_worked.ipynb)                   |
 | 29 Oct 2026 | [Lab 5 — Robotics: Sensor-to-Action Control](all_experiments/lab05_robotics_sensor_control_worked.ipynb)                |
 | 5 Nov 2026  | [Lab 6 — NLP Foundations: Handwriting OCR Evaluation](all_experiments/lab06_handwriting_ocr_worked.ipynb)               |
+| 12 Nov 2026 | [Lab 7 — NLP Evaluation: Airline Tweet Sentiment Classification](all_experiments/lab07_airline_sentiment_worked.ipynb)  |
